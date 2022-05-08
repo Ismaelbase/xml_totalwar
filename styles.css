@@ -1,0 +1,114 @@
+body{
+	font-family: 'RomanesqueSerifRegular';
+   font-weight: normal;
+   font-style: normal;
+  	color: black;
+  	background-color: #DAE6E5;
+}
+
+h1,h2,h3{
+   font-family: 'ElemenzInitialsRegular';
+   font-weight: bold;
+   font-style: bold;
+   text-align: center;
+}
+
+h1{
+	font-size: 5rem;
+}
+
+h2{
+	font-size: 4rem;
+}
+
+
+table {
+	margin-top: 2rem;
+	border-collapse: collapse;
+	font-size: larger;
+	margin: auto;
+	max-width: 1200px;
+}
+
+table td,th{
+	width: 16.66%;
+	border: 1.5px solid  #3f075c;
+	padding: 0.5rem;
+	text-align: center;
+}
+
+table#TotalWar1 tr:nth-child(2n+1){
+	background-color: #f5f0e1;
+}
+
+table#TotalWar2 tr:nth-child(2n+1){
+	background-color: #a7beae;
+}
+
+table#TotalWar3 tr:nth-child(2n+1){
+	background-color: #cfb845;
+}
+
+table#TotalWar1 tr:nth-child(2n){
+	background-color: #C29B0C;
+}
+
+table#TotalWar2 tr:nth-child(2n){
+	background-color: #AA4344;
+}
+
+table#TotalWar3 tr:nth-child(2n){
+	background-color: #87D8C3;
+}
+
+table#TotalWar1 td:first-child::first-letter{
+	font-size: 3rem;
+	color: #C29B0C;
+}
+
+table#TotalWar2 td:first-child::first-letter{
+	font-size: 3rem;
+	color: #AA4344;
+}
+
+table#TotalWar3 td:first-child::first-letter{
+	font-size: 3rem;
+	color: #87D8C3;
+}
+
+table#TotalWar1 tr:nth-child(2n)>td:first-child::first-letter{
+	font-size: 3rem;
+	color: #f5f0e1;
+}
+
+table#TotalWar2 tr:nth-child(2n)>td:first-child::first-letter{
+	font-size: 3rem;
+	color: #a7beae;
+}
+
+table#TotalWar3 tr:nth-child(2n)>td:first-child::first-letter{
+	font-size: 3rem;
+	color: #cfb845;
+}
+table th{
+	color: white;
+	background-color: black;
+	font-size: 1.3em;
+}
+
+table td:first-child{
+	font-size: x-large;
+}
+
+table td:last-child{
+	padding: 0px;
+}
+
+table img{
+	width: 100%;
+	vertical-align: middle;
+}
+
+table ul{
+	text-align: left;
+}

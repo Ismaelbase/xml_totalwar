@@ -1,0 +1,479 @@
+<facciones>
+	<faccion id="f1">
+		<nombre>Karaz-a-Karak</nombre>
+		<lider>Thorgrim Grudgebearer</lider>
+		<faccionmenor>
+			<nombre>Karak Kadrin</nombre>
+			<nombre>Clan Angrund</nombre>
+			<nombre>Ironbrow's Expedition</nombre>
+			<nombre>Barak varr</nombre>
+			<nombre>Karak Azul</nombre>
+			<nombre>Karak Hirn</nombre>
+			<nombre>Karak Izor</nombre>
+			<nombre>Karak Norn</nombre>
+			<nombre>Karak Ziflin</nombre>
+			<nombre>Kraka Drak</nombre>
+			<nombre>Zhufbar</nombre>
+			<nombre>Karak Zorn</nombre>
+			<nombre>Clan Helhein</nombre>
+			<nombre>Greybeard's Prospectors</nombre>
+			<nombre>Spine of Sotek Dwarfs</nombre>
+			<nombre>Karak Azorn</nombre>
+		</faccionmenor>
+		<raza>Dwarfs</raza>
+		<imagen>img/Karaz-a-Karak.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>Grimgor's 'Ardboyz</nombre>
+		<lider>Grimgor Ironhide</lider>
+		<faccionmenor>
+			<nombre>Bonerattlaz</nombre>
+			<nombre>Crooked Moon</nombre>
+			<nombre>The Bloody Handz</nombre>
+			<nombre>Broken Axe</nombre>
+			<nombre>Black Venom</nombre>
+			<nombre>Bloody Spearz</nombre>
+			<nombre>Broken Nose</nombre>
+			<nombre>Crooked Moon Mutinous Gits</nombre>
+			<nombre>Necksnappers</nombre>
+			<nombre>Orcs of the Bloddy Hand</nombre>
+			<nombre>Red Eye</nombre>
+			<nombre>Red Fangs</nombre>
+			<nombre>Scabby Eye</nombre>
+			<nombre>Skullsmasherz</nombre>
+			<nombre>Teef Snatchaz</nombre>
+			<nombre>Gloomy Woodz Tribe</nombre>
+			<nombre>The Black Pit Tribe</nombre>
+			<nombre>Arachnos</nombre>
+			<nombre>Broken Chainz</nombre>
+			<nombre>Leaf-Cutterz Tribe</nombre>
+			<nombre>Skull Crag</nombre>
+			<nombre>Creeping Death</nombre>
+			<nombre>Red Cloud</nombre>
+			<nombre>Dark Land Orcs</nombre>
+			<nombre>Drippin Fangs</nombre>
+			<nombre>Moon Howlerz</nombre>
+		</faccionmenor>
+		<raza>Orks</raza>
+		<imagen>img/Greenskins.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>Reikland</nombre>
+		<lider>Emperor Karl Franz</lider>
+		<faccionmenor>
+			<nombre>The Golden Order</nombre>
+			<nombre>The Huntsmarshal's Expedition</nombre>
+			<nombre>Averland</nombre>
+			<nombre>Empire Secessionists</nombre>
+			<nombre>Hochland</nombre>
+			<nombre>Marienburg</nombre>
+			<nombre>Middenland</nombre>
+			<nombre>Nordland</nombre>
+			<nombre>Ostland</nombre>
+			<nombre>Ostermark</nombre>
+			<nombre>Stirland</nombre>
+			<nombre>Talabecland</nombre>
+			<nombre>Wissenland</nombre>
+			<nombre>Carroburg</nombre>
+			<nombre>Cult of Ulric</nombre>
+			<nombre>Middenheim</nombre>
+		</faccionmenor>
+		<raza>Humans</raza>
+		<imagen>img/Reikland.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>Sylvania</nombre>
+		<lider>Mannfred von Carstein</lider>
+		<faccionmenor>
+			<nombre>Von Carstein</nombre>
+			<nombre>The Barrow Legion</nombre>
+			<nombre>Mousillon</nombre>
+			<nombre>Templehof</nombre>
+			<nombre>Vampire Counts Rebelds</nombre>
+			<nombre>Waldenhof</nombre>
+			<nombre>Necrach Brotherhood</nombre>
+			<nombre>Strygos Empire</nombre>
+			<nombre>The Silver Host</nombre>
+			<nombre>Lahmian Sisterhood</nombre>
+			<nombre>Nagashizzar</nombre>
+		</faccionmenor>
+		<raza>Vampires</raza>
+		<imagen>img/Vampire_Counts.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>Warriors of Chaos</nombre>
+		<lider>Archaon the Everchosen</lider>
+		<faccionmenor>
+			<nombre>Kholek Suneater</nombre>
+			<nombre>Sigvald the Magnificent</nombre>
+			<nombre>Chaous Rebel Uprising</nombre>
+			<nombre>Challenger of the Crow</nombre>
+			<nombre>Challenger of the Eagle</nombre>
+			<nombre>Challenger of the Hound</nombre>
+			<nombre>Challenger of the Serpent</nombre>
+			<nombre>Followers of Chaos</nombre>
+			<nombre>Pupets of Chaos</nombre>
+			<nombre>Servants to Chaos</nombre>
+			<nombre>Vessels of Chaos</nombre>
+			<nombre>Chaos Gathering</nombre>
+			<nombre>Dreaded Wo</nombre>
+			<nombre>Gharhar</nombre>
+			<nombre>Khazag</nombre>
+			<nombre>Kvellig</nombre>
+			<nombre>Tong</nombre>
+		</faccionmenor>
+		<raza>Barbarians</raza>
+		<imagen>img/chaos.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>Warherd of the One-Eye</nombre>
+		<lider>Khazrak the One-Eye</lider>
+		<faccionmenor>
+			<nombre>Harbinger of Disaster</nombre>
+			<nombre>Warherd of the Shadowgave</nombre>
+			<nombre>Slaughterhorn Tribe</nombre>
+			<nombre>Jagged-Horn Tribe</nombre>
+			<nombre>Redhorn Tribe</nombre>
+			<nombre>Warherd of Chaos</nombre>
+			<nombre>Ripper-Horn Tribe</nombre>
+			<nombre>Shadowgor Warherd</nombre>
+			<nombre>Skrinderkin Warherd</nombre>
+			<nombre>Blooded-Axe Tribe</nombre>
+			<nombre>Manblight Tribe</nombre>
+			<nombre>Stone-Horn Tribe</nombre>
+		</faccionmenor>
+		<raza>Beastmen</raza>
+		<imagen>img/Beastmen.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>Bretonnia</nombre>
+		<lider>King Louen Leoncoeur</lider>
+		<faccionmenor>
+			<nombre>Bordeleaux</nombre>
+			<nombre>Carcassonne</nombre>
+			<nombre>Chevaliers de Lyonesse</nombre>
+			<nombre>Artois</nombre>
+			<nombre>Bastonne</nombre>
+			<nombre>Lyonesse</nombre>
+			<nombre>Parravon</nombre>
+			<nombre>Aquitaine</nombre>
+			<nombre>Brionne</nombre>
+			<nombre>Gisoreux</nombre>
+			<nombre>Montfort</nombre>
+			<nombre>Quenelles</nombre>
+			<nombre>Knights of the Flame</nombre>
+			<nombre>Knights of Origo</nombre>
+		</faccionmenor>
+		<raza>Humans</raza>
+		<imagen>img/Bretonnia.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>Talsyn</nombre>
+		<lider>Orion</lider>
+		<faccionmenor>
+			<nombre>Argwylon</nombre>
+			<nombre>Heralds of Ariel</nombre>
+			<nombre>Wargrove of Woe</nombre>
+			<nombre>Torgovann</nombre>
+			<nombre>Wydrioth</nombre>
+			<nombre>Anmyr</nombre>
+			<nombre>Arranoc</nombre>
+			<nombre>Atywyth</nombre>
+			<nombre>Cavaroc</nombre>
+			<nombre>Cythral</nombre>
+			<nombre>Fyr Darric</nombre>
+			<nombre>Modryn</nombre>
+			<nombre>Tirsyth</nombre>
+			<nombre>Bowmen of Oreon</nombre>
+			<nombre>Laurelorn Forest</nombre>
+		</faccionmenor>
+		<raza>Elves</raza>
+		<imagen>img/Wood_Elves.png</imagen>
+		<juego>Total war 2</juego>
+	</faccion>
+	<faccion>
+		<nombre>Norsca</nombre>
+		<lider>Wulfrik the Wanderer</lider>
+		<faccionmenor>
+			<nombre>Wintertooth</nombre>
+			<nombre>Aesling</nombre>
+			<nombre>Baersonling</nombre>
+			<nombre>Bjornling</nombre>
+			<nombre>Goromadny Tribe</nombre>
+			<nombre>Graeling</nombre>
+			<nombre>Helspire Tribe</nombre>
+			<nombre>Naglfarlings</nombre>
+			<nombre>Sarl</nombre>
+			<nombre>Skaeling</nombre>
+			<nombre>Vanaheimlings</nombre>
+			<nombre>Varg</nombre>
+			<nombre>Aghol</nombre>
+			<nombre>Khrag</nombre>
+			<nombre>Mung</nombre>
+			<nombre>Skeggi</nombre>
+			<nombre>Warband of the Crow</nombre>
+			<nombre>Warband of the Eagle</nombre>
+			<nombre>Warband of the Hound</nombre>
+			<nombre>Warband of the Serpent</nombre>
+			<nombre>Great Eagle Tribe</nombre>
+			<nombre>Horde of Kurnz</nombre>
+			<nombre>The Gharhars</nombre>
+			<nombre>The Kvelligs</nombre>
+			<nombre>The Tahmaks</nombre>
+			<nombre>Tong</nombre>
+		</faccionmenor>
+		<raza>Barbarians</raza>
+		<imagen>img/Norsca.png</imagen>
+		<juego>Total war 2</juego>
+	</faccion>
+	<faccion>
+		<nombre>Naggarond</nombre>
+		<lider>Malekith</lider>
+		<faccionmenor>
+			<nombre>Cult of Pleasure</nombre>
+			<nombre>Har Ganeth</nombre>
+			<nombre>The Blessed Dread</nombre>
+			<nombre>Hag Graef</nombre>
+			<nombre>The Thousand Maws</nombre>
+			<nombre>Blood Hall Coven</nombre>
+			<nombre>Drackla Coven</nombre>
+			<nombre>Bleak Holds</nombre>
+			<nombre>Clar Karond</nombre>
+			<nombre>Cult of Excess</nombre>
+			<nombre>Deadwood Sentinels</nombre>
+			<nombre>Ghrond</nombre>
+			<nombre>Karond Kar</nombre>
+			<nombre>Scourge of Khaine</nombre>
+			<nombre>Ss'ildra Tor</nombre>
+			<nombre>The Forgebound</nombre>
+		</faccionmenor>
+		<raza>Elves</raza>
+		<imagen>img/Darkelves.png</imagen>
+		<juego>Total war 2</juego>
+	</faccion>
+	<faccion>
+		<nombre>Eataine</nombre>
+		<lider>Tyrion</lider>
+		<faccionmenor>
+			<nombre>Order of Loremasters</nombre>
+			<nombre>Avelorn</nombre>
+			<nombre>Nagarythe</nombre>
+			<nombre>Yvresse</nombre>
+			<nombre>Knights of Caledor</nombre>
+			<nombre>Citadel of Dusk</nombre>
+			<nombre>Fortress of Dawn</nombre>
+			<nombre>Tor Elasor</nombre>
+			<nombre>Caledor</nombre>
+			<nombre>Chrace</nombre>
+			<nombre>Cothique</nombre>
+			<nombre>Ellyrion</nombre>
+			<nombre>Saphery</nombre>
+			<nombre>Tiranoc</nombre>
+			<nombre>Tor Elithis Refugees</nombre>
+		</faccionmenor>
+		<raza>Elves</raza>
+		<imagen>img/High_elves.png</imagen>
+		<juego>Total war 2</juego>
+	</faccion>
+	<faccion>
+		<nombre>Hexoatl</nombre>
+		<lider>Lord Mazdamundi</lider>
+		<faccionmenor>
+			<nombre>Last Defenders</nombre>
+			<nombre>Tlaqua</nombre>
+			<nombre>Cult of Sotek</nombre>
+			<nombre>Itza</nombre>
+			<nombre>Spirit of the Jungle</nombre>
+			<nombre>Ghosts of Pahuax</nombre>
+			<nombre>Southern Sentinels</nombre>
+			<nombre>Xlanhuapec</nombre>
+			<nombre>Zlatlan</nombre>
+			<nombre>Children of the Old Ones</nombre>
+			<nombre>Defenders of the Great Plan</nombre>
+			<nombre>Itz-itza Tribe</nombre>
+			<nombre>Sentinels of Xeti</nombre>
+			<nombre>Teotiqua</nombre>
+			<nombre>Tlaxtlan</nombre>
+			<nombre>Wardens of the Living Pools</nombre>
+			<nombre>Tepok's Spawn</nombre>
+		</faccionmenor>
+		<raza>Lizardmen</raza>
+		<imagen>img/Hexoatl.png</imagen>
+		<juego>Total war 2</juego>
+	</faccion>
+	<faccion>
+		<nombre>Clan Mors</nombre>
+		<lider>Queek Headtaker</lider>
+		<faccionmenor>
+			<nombre>Clan Pestilens</nombre>
+			<nombre>Can Rictus</nombre>
+			<nombre>Clan Skryre</nombre>
+			<nombre>Clan Eshin</nombre>
+			<nombre>Clan Moulder</nombre>
+			<nombre>Grey Seer Clan</nombre>
+			<nombre>Unknown Skaven Clan</nombre>
+			<nombre>Clan Ferrik</nombre>
+			<nombre>Clan Fester</nombre>
+			<nombre>Clan Gnaw</nombre>
+			<nombre>Clan Gritus</nombre>
+			<nombre>Clan Kreepus</nombre>
+			<nombre>Clan Mange</nombre>
+			<nombre>Clan Mordkin</nombre>
+			<nombre>Clan Septik</nombre>
+			<nombre>Clan Spittel</nombre>
+			<nombre>Clan Volkn</nombre>
+			<nombre>Rictus Clan-Nest</nombre>
+			<nombre>Clan Krizzor</nombre>
+			<nombre>Clan Morbidus</nombre>
+		</faccionmenor>
+		<raza>Ratmen</raza>
+		<imagen>img/Clan_Mors.png</imagen>
+		<juego>Total war 2</juego>
+	</faccion>
+	<faccion>
+		<nombre>Khemri</nombre>
+		<lider>Settra the Imperishable</lider>
+		<faccionmenor>
+			<nombre>Court of Lybaras</nombre>
+			<nombre>Exiles of Nehek</nombre>
+			<nombre>Followers of Nagash</nombre>
+			<nombre>Dune Kingdoms</nombre>
+			<nombre>Numas</nombre>
+			<nombre>Rakph Dynasty</nombre>
+			<nombre>The Sentinels</nombre>
+			<nombre>Tomb Kings Rebels</nombre>
+		</faccionmenor>
+		<raza>Undead</raza>
+		<imagen>img/Khemri.png</imagen>
+		<juego>Total war 1</juego>
+	</faccion>
+	<faccion>
+		<nombre>The Awekened</nombre>
+		<lider>Luthor Harkon</lider>
+		<faccionmenor>
+			<nombre>The Dreadfleet</nombre>
+			<nombre>Pirates of Sartosa</nombre>
+			<nombre>The Drowned</nombre>
+			<nombre>Vampire Coast Mutineers</nombre>
+		</faccionmenor>
+		<raza>Vampire</raza>
+		<imagen>img/The_Awekened.png</imagen>
+	</faccion>
+	<faccion>
+		<nombre>The Ice Court</nombre>
+		<lider>Tzarina Katarin</lider>
+		<faccionmenor>
+			<nombre>The Great Orthodoxy</nombre>
+			<nombre>Ursun Revivalists</nombre>
+			<nombre>Brotherhood of the Bear</nombre>
+			<nombre>Druzhina Enclave</nombre>
+			<nombre>Ropsmenn Clan</nombre>
+			<nombre>Ungol Kindred</nombre>
+			<nombre>Dervingard Garrison</nombre>
+		</faccionmenor>
+		<raza>Humans</raza>
+		<imagen>img/The_Ice_Court.png</imagen>
+		<juego>Total war 3</juego>
+	</faccion>
+	<faccion>
+		<nombre>The Northern Provinces</nombre>
+		<lider>Miao Ying</lider>
+		<faccionmenor>
+			<nombre>The Western Provinces</nombre>
+			<nombre>Burning Wind Nomads</nombre>
+			<nombre>Celestial Loyalists</nombre>
+			<nombre>Dissenter Lords of Jinshen</nombre>
+			<nombre>Eastern River Lords</nombre>
+			<nombre>Imperial Wardens</nombre>
+			<nombre>Rebel Lords of Nan-Yang</nombre>
+			<nombre>The Jade Custodians</nombre>
+		</faccionmenor>
+		<raza>Humans</raza>
+		<imagen>img/The_Northern_Provinces.png</imagen>
+		<juego>Total war 3</juego>
+	</faccion>
+	<faccion>
+		<nombre>Goldtooth</nombre>
+		<lider>Greasus Goldtooth</lider>
+		<faccionmenor>
+			<nombre>Fisciples of the Maw</nombre>
+			<nombre>Bloodmaw</nombre>
+			<nombre>Blood Guzzlers</nombre>
+			<nombre>Crossed Clubs</nombre>
+			<nombre>Eyebiter</nombre>
+			<nombre>Fulg</nombre>
+			<nombre>Lazarghs</nombre>
+			<nombre>Loose Tooth</nombre>
+			<nombre>Mountaineaters</nombre>
+			<nombre>Rock Skulls</nombre>
+			<nombre>Sabreskin</nombre>
+			<nombre>Sons of the Mountain</nombre>
+			<nombre>Thunderguts</nombre>
+			<nombre>Treehammers</nombre>
+		</faccionmenor>
+		<raza>Ogre</raza>
+		<imagen>img/Goldtooth.png</imagen>
+		<juego>Total war 3</juego>
+	</faccion>
+	<faccion>
+		<nombre>Exiles of Khorne</nombre>
+		<lider>Skarbrand</lider>
+		<faccionmenor>
+			<nombre>Bloody Sword</nombre>
+			<nombre>Brazen Throne</nombre>
+			<nombre>Crimson Skull</nombre>
+			<nombre>Kharneth's Sons</nombre>
+			<nombre>Blood-Sayters</nombre>
+			<nombre>Blood Keepers</nombre>
+		</faccionmenor>
+		<raza>Demon</raza>
+		<imagen>img/Exiles_of_Khorne.png</imagen>
+		<juego>Total war 3</juego>
+	</faccion>
+	<faccion>
+		<nombre>Poxmakers of Nurgle</nombre>
+		<lider>Ku'gath Plaguefather</lider>
+		<faccionmenor>
+			<nombre>Bubonic Swarn</nombre>
+			<nombre>Maggoth Kin</nombre>
+			<nombre>Septic Claw</nombre>
+		</faccionmenor>
+		<raza>Demon</raza>
+		<imagen>img/Poxmakers_of_Nurgle.png</imagen>
+		<juego>Total war 3</juego>
+	</faccion>
+	<faccion>
+		<nombre>Seducers of Slaanesh</nombre>
+		<lider>N'Kari</lider>
+		<faccionmenor>
+			<nombre>Exquiste Pain</nombre>
+			<nombre>Rapturous Excess</nombre>
+			<nombre>Subtle Torture</nombre>
+		</faccionmenor>
+		<raza>Demon</raza>
+		<imagen>img/Seducers_of_Slaanesh.png</imagen>
+		<juego>Total war 3</juego>
+	</faccion>
+	<faccion>
+		<nombre>Oracles of Tzeentech</nombre>
+		<lider>Kairos Fateweaver</lider>
+		<faccionmenor>
+			<nombre>All-Seeing Eye</nombre>
+			<nombre>Broken Wheel</nombre>
+			<nombre>Flaming Scribes</nombre>
+			<nombre>Sarthorael's Watchers</nombre>
+			<nombre>Apostles of Change</nombre>
+			<nombre>The Sightless</nombre>
+		</faccionmenor>
+		<raza>Demon</raza>
+		<imagen>img/Oracles_of_Tzeentch.png</imagen>
+		<juego>Total war 3</juego>
+	</faccion>
+</facciones>
